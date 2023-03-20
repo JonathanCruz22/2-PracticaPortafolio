@@ -1,0 +1,21 @@
+@import url(./1-navBar.css);
+@import url(./2-header.css);
+@import url(./3-servicios.css);
+@import url(./4-Portafolio.css);
+@import url(./5-clientes.css);
+
+:root {
+
+    --color-blue-medium: #8fe2e4;
+    --color-purple: #632ce7;
+    --color-gray: #ccc;
+    --color-gray-medium: #f8f9fa;
+    --color-yellow: #fac32c;
+
+}
+
+.container > .row {
+    margin-bottom: 3rem;
+}
+
+
